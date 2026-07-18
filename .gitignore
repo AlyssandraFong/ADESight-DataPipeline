@@ -1,0 +1,47 @@
+# ---------- Secrets & environment ----------
+.env
+.env.local
+.env.*.local
+
+# ---------- Python / FastAPI backend ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# ---------- Node / React frontend ----------
+node_modules/
+dist/
+build/
+.vite/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# ---------- Jupyter / Kaggle notebooks ----------
+.ipynb_checkpoints/
+
+# ---------- OS / editor junk ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------- Data & model artifacts (large/binary - see README) ----------
+*.parquet
+*.pkl
+*.pickle
+adverse_events_drug_level.parquet
+.env
+*.csv
+*.json
+*.png
+*.npy
+*.zip
+*.db
+
+# Model outputs
+results (tuned models)/
