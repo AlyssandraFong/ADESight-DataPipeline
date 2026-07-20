@@ -97,4 +97,4 @@ These artifacts are what the ADESight web app's backend loads at runtime — reg
 - Naming conventions: `search_rf3`, `best_xgb_loop_params`, `model_xgb_loop_tuned`, `thresholds_*`
 
 ---
-*Part of the ADESight Final Year Project. See the main [ADESight README](./README_ADESight.md) for the full-stack application.*
+*Part of the ADESight Final Year Project. See the main [ADESight Website Platform](https://github.com/AlyssandraFong/ADESight-Platform.git) for the full-stack application.*
